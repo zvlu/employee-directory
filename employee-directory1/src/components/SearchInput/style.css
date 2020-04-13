@@ -1,0 +1,10 @@
+* {
+    border-radius: 1px;
+    box-sizing: border-box;
+}
+
+input {
+    align-content: center;
+    text-align: center;
+    margin: 50px;
+}
